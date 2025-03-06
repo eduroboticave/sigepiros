@@ -1,2 +1,0 @@
-<p><span style="font-size: 14px; font-family: Arial, sans-serif;"></span><span style="font-size: 24px; font-family: Arial, sans-serif;"><strong>Dise&ntilde;o:</strong><strong>&nbsp;</strong></span></p>
-<p><span style="font-size: 14px; font-family: Arial, sans-serif;">Pauta la creaci&oacute;n de las piezas que componen la matriz de cuadr&iacute;culas (filas x columnas) de la pista y sus diferentes niveles de complejidad.</span></p>
