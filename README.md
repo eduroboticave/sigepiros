@@ -1,5 +1,5 @@
 # sigepiros
-<p><strong><span style="background-color:#ffffff;font-size:11pt;font-family:Arial,sans-serif;">T&iacute;tulo:</span></strong></p>
+<p><strong><span style="background-color:#ffffff;font-size:14pt;font-family:Arial,sans-serif;">T&iacute;tulo:</span></strong></p>
 <p><span style="background-color:#ffffff;font-size:11pt;font-family:Arial,sans-serif;">Sistema Generador de Pistas para Robot Seguidor de L&iacute;neas (SIGEPIROS)</span></p>
 <p><strong><span style="font-size:11pt;font-family:Arial,sans-serif;">Equipo de Desarrollo:</span></strong></p>
 <ul>
