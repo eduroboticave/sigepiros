@@ -1,6 +1,6 @@
 # sigepiros
-<p><strong><span style="background-color:#ffffff;font-size:14pt;font-family:Arial,sans-serif;">T&iacute;tulo:</span></strong></p>
-<p><span style="background-color:#ffffff;font-size:11pt;font-family:Arial,sans-serif;">Sistema Generador de Pistas para Robot Seguidor de L&iacute;neas (SIGEPIROS)</span></p>
+<p><strong><span style="background-color:#ffffff;font-size:11pt;font-family:Arial,sans-serif;">T&iacute;tulo:</span></strong></p>
+<p><span style="background-color:#ffffff;font-size:20pt;font-family:Arial,sans-serif;">Sistema Generador de Pistas para Robot Seguidor de L&iacute;neas (SIGEPIROS)</span></p>
 <p><strong><span style="font-size:11pt;font-family:Arial,sans-serif;">Equipo de Desarrollo:</span></strong></p>
 <ul>
     <li><span style="font-size:11pt;font-family:Arial,sans-serif;">Caba&ntilde;a, Darwin (Direcci&oacute;n Nacional de Comunalizaci&oacute;n de la Ciencia para la producci&oacute;n, MINCYT, -2025)</span></li>
