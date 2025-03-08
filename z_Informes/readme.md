@@ -2,3 +2,4 @@
 <p><span style="background-color: rgb(255, 255, 255); font-size: 22px; font-family: Arial, sans-serif; text-shadow: rgba(136, 136, 136, 0.8) 3px 3px 2px;">Sistema Generador de Pistas para Robot Seguidor de L&iacute;neas (SIGEPIROS)</span></p><span style="font-size: 24px; font-family: Arial, sans-serif;"><strong>Informes, experiencias</strong><strong>&nbsp;</strong></span></p>
 <p><span style="font-size: 14px; font-family: Arial, sans-serif;">Se comparten algunos materiales asociados a la gestión del proyecto y las experiencias, actividades.</span></p>
 <p><ul><li>Informe de Experiencia de desarrollo en Maracaibo, 23 y 24 de Enero 2025</li><li>Elementos inciales a considerar para la elaboración de cada ficha, Diciembre 2024</li></ul></p>
+En la carpeta CV se encuentran los Curricuum Vitae del equipo de desarrollo.
