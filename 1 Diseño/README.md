@@ -4,7 +4,7 @@ Generador de Pistas para Robot Seguidor de L&iacute;neas (SIGEPIROS)</span></p>
 <span style="font-size: 14px; font-family: Arial,sans-serif;"><strong>M&oacute;dulo
 1: Dise&ntilde;o de piezas para la Pista</strong><strong>&nbsp;</strong></span>
 <p></p>
-<p style="font-weight: bold;"><span style="font-size: 24px; font-family: Arial,sans-serif;"><b>ANTECEDENDES</b></span></p>
+<p style="font-weight: bold;"><span style="font-size: 24px; font-family: Arial,sans-serif;"><b>I.- ANTECEDENDES</b></span></p>
 <ol>
   <li><span
  style="font-size: 14px; font-family: Arial,sans-serif;">Se
@@ -201,6 +201,6 @@ https://juegosrobotica.es/plantillas-siguelineas <br>
       </span></li>
   </ol>
 </ol>
-<p style="font-weight: bold;"><span style="font-size: 24px; font-family: Arial,sans-serif;"><b>ANÁLISIS DE LOS ANTECENDES</b></span></p>
-<p style="font-weight: bold;"><span style="font-size: 24px; font-family: Arial,sans-serif;"><b>PROPUESTA DE ARMADO PISTA CIRCUITO SIGUE LÍNEAS</b></span></p>
-<p style="font-weight: bold;"><span style="font-size: 24px; font-family: Arial,sans-serif;"><b>PIEZAS DE LA PISTA</b></span></p>
+<p style="font-weight: bold;"><span style="font-size: 24px; font-family: Arial,sans-serif;"><b>II.- ANÁLISIS DE LOS ANTECENDES</b></span></p>
+<p style="font-weight: bold;"><span style="font-size: 24px; font-family: Arial,sans-serif;"><b>III.- PROPUESTA DE ARMADO PISTA CIRCUITO SIGUE LÍNEAS</b></span></p>
+<p style="font-weight: bold;"><span style="font-size: 24px; font-family: Arial,sans-serif;"><b>IV.- PIEZAS DE LA PISTA</b></span></p>
