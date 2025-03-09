@@ -3,5 +3,5 @@
 Generador de Pistas para Robot Seguidor de L&iacute;neas (SIGEPIROS)</span></p>
 <span style="font-size: 14px; font-family: Arial,sans-serif;"><strong>M&oacute;dulo
 1: Dise&ntilde;o de piezas para la Pista</strong><strong>&nbsp;</strong></span>
-<p>Carpeta para descarga y gestión de piezas del circuito</p>
+<p>Archivos para la descarga y gestión de piezas del circuito</p>
 <p></p><ol><li>Carpeta sgv: archivos para corte láser</li><li>Carpeta jpg: archivos de imagen</li></ol>
