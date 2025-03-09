@@ -9,10 +9,9 @@ Generador de Pistas para Robot Seguidor de L&iacute;neas (SIGEPIROS)</span></p>
 1: Dise&ntilde;o de piezas para la Pista</strong><strong>&nbsp;</strong></span>
 <p></p>
 <p style="font-weight: bold;"><span
- style="font-size: 14px; font-family: Arial,sans-serif;">ANTECEDENDES</span></p>
+ style="font-size: 24px; font-family: Arial,sans-serif;">ANTECEDENDES</span></p>
 <ol>
-  <li><span
- style="font-size: 14px; font-family: Arial,sans-serif;">Se
+  <li><span style="font-size: 14px; font-family: Arial,sans-serif;">Se
 presentan s&oacute;lo <span style="font-weight: bold;">algunas</span>
 referencias m&iacute;nimas de <span style="font-weight: bold;">competencias</span>
 robots sigue
