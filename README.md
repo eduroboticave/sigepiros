@@ -7,7 +7,7 @@
 <p><strong><span style="font-size:11pt;font-family:Arial,sans-serif;">Equipo de Desarrollo:</span></strong></p>
 <ul>
     <li><span style="font-size:11pt;font-family:Arial,sans-serif;">Caba&ntilde;a, Darwin (Direcci&oacute;n Nacional de Comunalizaci&oacute;n de la Ciencia para la producci&oacute;n, MINCYT, -2025)</span></li>
-    <li><span style="font-size:11pt;font-family:Arial,sans-serif;">Del Mar, Alejandro (Profesor Escuela de Educaci&oacute;n, UCAB, 1998-2025...)</span></li>
+    <li><span style="font-size:11pt;font-family:Arial,sans-serif;">Del Mar Raga, Alejandro (Profesor Escuela de Educaci&oacute;n, UCAB, 1998-2025...)</span></li>
     <li><span style="font-size:11pt;font-family:Arial,sans-serif;">Del Mar Rodr&iacute;guez, Jes&uacute;s Alejandro (Ingeniero en Telecomunicaciones, UCAB, 2024)</span></li>
     <li><span style="font-size:11pt;font-family:Arial,sans-serif;">Fern&aacute;ndez, Hugo. (Coordinador de Rob&oacute;tica e Inform&aacute;tica, FUNDACITE Zulia, -2025)</span></li>
     <li><span style="font-size:11pt;font-family:Arial,sans-serif;">Prial&eacute; Cappa, Andr&eacute; (Direcci&oacute;n de investigaci&oacute;n e innovaci&oacute;n espacial, ABAE, -2025)</span></li>
