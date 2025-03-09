@@ -177,7 +177,7 @@ semicurva de color negro con un ancho de 2 cm. Los ni&ntilde;os
 arman el rompecabezas y luego programan el robot para que salga del
 punto de inicio, recorra a l&iacute;nea y estacione en el punto de
 llegada.<br>
-https://edurobotica.blogspot.com/search/label/Exposiciones%20Itinerantes
+https://edurobotica.blogspot.com/2009/09/2da-exposicion-itinerante-de-robotica.html
       </span></li>
     <li><span
  style="font-size: 14px; font-family: Arial,sans-serif; font-weight: bold;">Tablero
