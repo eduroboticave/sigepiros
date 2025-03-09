@@ -1,1 +1,1 @@
-
+Reglamentos de algunas competencias
