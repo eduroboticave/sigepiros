@@ -18,18 +18,24 @@ Venezuela.</b>&nbsp;</span></li>
     <li><span
  style="font-size: 14px; font-family: Arial,sans-serif;"><span
  style="font-weight: bold;">ULABOTS, Universidad de Los
-Andes,&nbsp;, [ 2011]</span><br>
-..<br>
+Andes,Facultad de Ingenier&iacute;a. [Noviembre 2011]</span><br>
+Primera competencia para estudiantes universitarios y
+aficionados.&nbsp;<br>
+Centrada en robots siguel&iacute;neas con dos tipos de circuitos,
+b&aacute;sico y avanzado.<br>
       </span><span
- style="font-size: 14px; font-family: Arial,sans-serif;">|
-Noticia institucional<span style="font-style: italic;"> | </span></span><span
+ style="font-size: 14px; font-family: Arial,sans-serif;">| <a
+ href="https://www.prensa.ula.ve/2011/10/26/estudiantes-y-aficionados-de-la-robotica-competiran-en-ulabots-2011"
+ target="_blank">
+Noticia institucional<span style="font-style: italic;"></span></a>
+| </span><span
  style="font-size: 14px; font-family: Arial,sans-serif;">Portal
 de la competencia |</span></li>
     <li><span
  style="font-size: 14px; font-family: Arial,sans-serif;"><span
  style="font-weight: bold;">Competencia Nacional de
 Rob&oacute;tica, Universidad Sim&oacute;n Bol&iacute;var,
-Grupo de&nbsp; [septiembre 2013]</span><br>
+Grupo de Inteligencia Artificial. [Septiembre 2013]</span><br>
       </span><span
  style="font-size: 14px; font-family: Arial,sans-serif;">Cuatro
 categor&iacute;as (Open, SEK, Sumo y Velocistas)<br>
@@ -51,7 +57,7 @@ S&oacute;lo participaron 14 equipos de estudiantes universitarios.<br>
     <li><span
  style="font-size: 14px; font-family: Arial,sans-serif;"><span
  style="font-weight: bold;">ULABOTS, Universidad de Los
-Andes,&nbsp; , [ 2014]</span><br>
+Andes,&nbsp; . [ Noviembre 2014]</span><br>
 Tres categor&iacute;as (Sumo, Desaf&iacute;o nacional y
 Velocista). <br>
 Velocista: <span style="font-style: italic;">"...un robot
@@ -78,19 +84,27 @@ S&oacute;lo participaron estudiantes universitarios<br>
  style="font-size: 14px; font-family: Arial,sans-serif;"></span></li>
     <li><span
  style="font-size: 14px; font-family: Arial,sans-serif;"><span
- style="font-weight: bold;">UNETBOTS, Universidad de Los
-Andes,&nbsp;, [ 2015]</span><br>
-..<br>
+ style="font-weight: bold;">UNETBOTS, Universidad Nacional
+Experimental del T&aacute;chira. [Octubre 2015]</span><br>
+Categor&iacute;as Desaf&iacute;o, Sumo, Velocistas.<br>
+Equipo universitarios.<br>
       </span><span
  style="font-size: 14px; font-family: Arial,sans-serif;">|
-Noticia institucional<span style="font-style: italic;"> | </span></span><span
- style="font-size: 14px; font-family: Arial,sans-serif;">Portal
-de la competencia |</span></li>
+      <a
+ href="http://www.unet.edu.ve/noticia-unet/3342-se-dio-inicio-formal-a-unetbots-2015.html"
+ target="_blank">Noticia institucional</a><span
+ style="font-style: italic;"> | </span></span><span
+ style="font-size: 14px; font-family: Arial,sans-serif;"><span
+ style="font-style: italic;"></span></span><span
+ style="font-size: 14px; font-family: Arial,sans-serif;"><a
+ href="http://www.unet.edu.ve/noticia-unet/3313-v-competencia-nacional-de-robotica-tiene-como-sede-a-la-unet.html"
+ target="_blank">Reglas de la competencia</a> |</span><span
+ style="font-size: 14px; font-family: Arial,sans-serif;"></span></li>
     <li><span
  style="font-size: 14px; font-family: Arial,sans-serif;"><span
  style="font-weight: bold;">Conferencia Nacional de
 Computaci&oacute;n, Inform&aacute;tica y Sistemas (CONSISA),
-Universidad de Los Andes,&nbsp;, [ 2015]</span><br>
+Universidad de Los Andes. [Noviembre 2018]</span><br>
 Se activ&oacute;, en el marco del evento, una competencia robots
 sigue l&iacute;neas..<br>
       </span><span
@@ -109,7 +123,7 @@ institucional</a><span style="font-style: italic;">
  style="font-weight: bold;">I Competencia Tachirense de
 Rob&oacute;tica, Universidad
 Nacional Experimental del T&aacute;chira, Laboratorio de
-prototipos, [Noviembre 2024]</span><br>
+prototipos. [Noviembre 2024]</span><br>
 S&oacute;lo a Robots seguidores de Lineas, tres
 categor&iacute;as por
 edades desde los 6 a&ntilde;os en adelantes.<br>
@@ -134,6 +148,13 @@ el &aacute;mbto instituicional<br>
  style="font-size: 14px; font-family: Arial,sans-serif;">Referencias
 a experiencias did&aacute;ctican el &aacute;bito s</span></li>
   <ol>
+    <li><span
+ style="font-size: 14px; font-family: Arial,sans-serif;">Escuela
+de Educaci&oacute;n, Proyecto La Rob&oacute;tica va a la Escuela<br>
+      </span></li>
+  </ol>
+</ol>
+
     <li><span
  style="font-size: 14px; font-family: Arial,sans-serif;">Escuela
 de Educaci&oacute;n, Proyecto La Rob&oacute;tica va a la Escuela<br>
