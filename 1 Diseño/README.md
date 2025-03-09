@@ -1,24 +1,22 @@
-<body>
 # sigepiros <img
  src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXf_4M2q_s9u47z9-EfZpbR4oDI5dHSPc4U2ksr0tKbEeM49-2ORD-WcGojh-NSrVvNqbHKwDhIsBhSzIM5FpIPD7A-xgFrw2pwXZ_y_xZlXczJCwRXs57myO7KKTjW2-CYtjtVV?key=wfIYDse3HDYUCiFSmAXxQTvT"
  style="float: right;" height="25" width="209">
 <p><span
  style="background-color: rgb(255, 255, 255); font-size: 22px; font-family: Arial,sans-serif;">Sistema
 Generador de Pistas para Robot Seguidor de L&iacute;neas (SIGEPIROS)</span></p>
-<span style="font-size: 24px; font-family: Arial,sans-serif;"><strong>M&oacute;dulo
+<span style="font-size: 14px; font-family: Arial,sans-serif;"><strong>M&oacute;dulo
 1: Dise&ntilde;o de piezas para la Pista</strong><strong>&nbsp;</strong></span>
 <p></p>
 <p style="font-weight: bold;"><span
- style="font-size: 24px; font-family: Arial,sans-serif;">ANTECEDENDES</span></p>
+ style="font-size: 24px; font-family: Arial,sans-serif;"><b>ANTECEDENDES</b></span></p>
 <ol>
-  <li><span style="font-size: 14px; font-family: Arial,sans-serif;">Se
+  <li><span
+ style="font-size: 14px; font-family: Arial,sans-serif;">Se
 presentan s&oacute;lo <span style="font-weight: bold;">algunas</span>
-referencias m&iacute;nimas de <span style="font-weight: bold;">competencias</span>
+referencias m&iacute;nimas de <b>competencias</b>
 robots sigue
-l&iacute;neas <span style="font-weight: bold;">en
-Venezuela</span>.<br>
-Estas competencias est&aacute;n enmarcadas en la&nbsp;<span
- style="font-style: italic;"></span></span></li>
+l&iacute;neas <b>en
+Venezuela.</b>&nbsp;</span></li>
   <ol>
     <li><span
  style="font-size: 14px; font-family: Arial,sans-serif;"><span
@@ -145,4 +143,3 @@ de Educaci&oacute;n, Proyecto La Rob&oacute;tica va a la Escuela<br>
       </span></li>
   </ol>
 </ol>
-</body>
