@@ -137,27 +137,68 @@ edades desde los 6 a&ntilde;os en adelantes.<br>
  href="https://protolab.my.canva.site/tachibots" target="_blank">Portal
 de la competencia</a> |</span></li>
     <li><span
- style="font-size: 14px; font-family: Arial,sans-serif;">Universidad
-de Los Andes</span></li>
-    <li><span
- style="font-size: 14px; font-family: Arial,sans-serif;">En
-el &aacute;mbto instituicional<br>
-      </span></li>
+ style="font-size: 14px; font-family: Arial,sans-serif;"><span
+ style="font-weight: bold;">ExpoRobotik - Competencia Grand
+Prix - Colegio de Ingenieros del Estado Carabobo (CIEDEC). [Noviembre
+2024]</span><br>
+En el marco de una Exposici&oacute;n, se abren dos competencias:
+Grand Prix (Basada en Velocista) e Idea Innvadora; a p&uacute;blico
+de varias edades.<br>
+      </span><span
+ style="font-size: 14px; font-family: Arial,sans-serif;">|
+      <a
+ href="https://www.instagram.com/ceidec_civ/p/DAGdvpEOtgs/?hl=es"
+ target="_blank">Noticia institucional</a><span
+ style="font-style: italic;"> | </span></span><span
+ style="font-size: 14px; font-family: Arial,sans-serif;">Portal
+de la competencia |<br>
+      </span><span
+ style="font-size: 14px; font-family: Arial,sans-serif;"></span></li>
   </ol>
   <li><span
- style="font-size: 14px; font-family: Arial,sans-serif;">Referencias
-a experiencias did&aacute;ctican el &aacute;bito s</span></li>
+ style="font-size: 14px; font-family: Arial,sans-serif;">Algunas
+referencias
+a <span style="font-weight: bold;">experiencias
+did&aacute;cticas</span> el &aacute;mbito
+pedag&oacute;gico asociadas a "<span style="font-weight: bold;">laberintos</span>"
+o "<span style="font-weight: bold;">pistas
+siguel&iacute;neas</span>" para la ense&ntilde;anza de la
+rob&oacute;tica en la escuela:</span></li>
   <ol>
     <li><span
- style="font-size: 14px; font-family: Arial,sans-serif;">Escuela
-de Educaci&oacute;n, Proyecto La Rob&oacute;tica va a la Escuela<br>
+ style="font-size: 14px; font-family: Arial,sans-serif;"><span
+ style="font-weight: bold;">Exposici&oacute;n Itinerante
+- Escuela
+de Educaci&oacute;n, Coodinaci&oacute;n de
+Tecnolog&iacute;a Educativa, Proyecto La Rob&oacute;tica va a
+la Escuela [Junio 2008]</span><br>
+Laberinto de 9 cuadr&iacute;culas (3x3); cada regilla tiene una
+dimensi&oacute;n de 21x21cm y una&nbsp;l&iacute;nea, curva,
+semicurva de color negro con un ancho de 2 cm. Los ni&ntilde;os
+arman el rompecabezas y luego programan el robot para que salga del
+punto de inicio, recorra a l&iacute;nea y estacione en el punto de
+llegada.<br>
+https://edurobotica.blogspot.com/search/label/Exposiciones%20Itinerantes
       </span></li>
-  </ol>
-</ol>
-
     <li><span
- style="font-size: 14px; font-family: Arial,sans-serif;">Escuela
-de Educaci&oacute;n, Proyecto La Rob&oacute;tica va a la Escuela<br>
+ style="font-size: 14px; font-family: Arial,sans-serif; font-weight: bold;">Tablero
+de pr&aacute;cticas Encuentro de Rob&oacute;tica Educativa - </span><span
+ style="font-size: 14px; font-family: Arial,sans-serif;"><span
+ style="font-weight: bold;">Escuela
+de Educaci&oacute;n, Coodinaci&oacute;n de
+Tecnolog&iacute;a Educatiiva [ Noviembre 2012]&nbsp;</span><br>
+Dise&ntilde;o de pistas siguelineas fondo blanco linea negra sobre
+una cartulina en kilo 80x100cm. Al unir cuatro cartulinas, se obtiene
+un circuito cerrado de la pista. <br>
+https://edurobotica.blogspot.com/search/label/InterEscolar%20Rob%C3%B3tica%20Educativa
+      </span><span
+ style="font-size: 14px; font-family: Arial,sans-serif;"></span></li>
+    <li><span
+ style="font-size: 14px; font-family: Arial,sans-serif;"><span
+ style="font-weight: bold;">2018 Plantilla para la
+creaci&oacute;n de circuitos para robots siguel&iacute;neas -
+Dani Sanz / Juegosrobotica</span><br>
+https://juegosrobotica.es/plantillas-siguelineas <br>
       </span></li>
   </ol>
 </ol>
