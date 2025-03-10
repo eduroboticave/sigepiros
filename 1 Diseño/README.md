@@ -183,8 +183,7 @@ https://juegosrobotica.es/plantillas-siguelineas&nbsp;</span></li>
 <span style="font-size: 24px; font-family: Arial,sans-serif;"><b>II.-
 PROPUESTA DE ARMADO PISTA CIRCUITO SIGUE L&Iacute;NEAS<br>
 </b></span><span
- style="font-size: 14px; font-family: Arial,sans-serif;"><span
- style="font-weight: bold;">II.1.- </span>Se plantea
+ style="font-size: 14px; font-family: Arial,sans-serif;"><b>- </b>Se plantea
 una metodolog&iacute;a que permita: <br>
 </span>
 <ul>
@@ -211,12 +210,7 @@ existentes.<br>
 PIEZAS DE LA PISTA</b></span></p>
 <p style="font-weight: bold;"><span
  style="font-size: 14px; font-family: Arial,sans-serif;"><span
- style="font-weight: bold;">III.1.-</span><span
- style="font-weight: normal;"><span
- style="font-weight: bold;"> </span>Detalles&nbsp;</span></span></p>
-<p style="font-weight: bold;"><span
- style="font-size: 14px; font-family: Arial,sans-serif;"><span
- style="font-weight: normal;">Se debe destacar un valor
+ style="font-weight: normal;"><b>- </b>Se debe destacar un valor
 &uacute;nico asociado a este proyecto, la forma de uni&oacute;n
 de las piezas es la siguiente:&nbsp;</span></span></p>
 <ul>
