@@ -210,9 +210,9 @@ existentes.<br>
 PIEZAS DE LA PISTA</b></span></p>
 <p style="font-weight: bold;"><span
  style="font-size: 14px; font-family: Arial,sans-serif;"><span
- style="font-weight: normal;"><b>- </b>Se debe destacar un valor
+ style="font-weight: normal;"><b>- </b><b><i>Se debe destacar un valor
 &uacute;nico asociado a este proyecto, la forma de uni&oacute;n
-de las piezas es la siguiente:&nbsp;</span></span></p>
+de las piezas es la siguiente:&nbsp;</b></i></span></span></span></p>
 <ul>
   <li><span
  style="font-size: 14px; font-family: Arial,sans-serif;"><span
