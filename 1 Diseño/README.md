@@ -263,7 +263,38 @@ mm de espesor).</span></li>
     <li><span
  style="font-size: 14px; font-family: Arial,sans-serif;">Cada
 opci&oacute;n requerir&aacute; una metodolog&iacute;a,
-acciones, configuraciones especificas para su producci&oacute;n. <br>
+acciones, configuraciones especificas para su
+producci&oacute;n.&nbsp;</span></li>
+  </ul>
+  <li><span
+ style="font-size: 14px; font-family: Arial,sans-serif;">En
+la versi&oacute;n 1.0 del sistema, presentamos 18 piezas con el
+siguiente dise&ntilde;o de l&iacute;neas, curvas,
+curvil&iacute;neas</span></li>
+</ul>
+<img alt="piezas1"
+ src="https://github.com/eduroboticave/sigepiros/blob/main/images/DisenoPiezas.PNG">
+<ul>
+  <li><span
+ style="font-size: 14px; font-family: Arial,sans-serif;">Posteriormente,
+agrupamos las&nbsp;piezas por niveles de dificultad, de la
+siguiente manera:</span></li>
+  <ul>
+    <li><span
+ style="font-size: 14px; font-family: Arial,sans-serif;">Nivel
+dificultad I: seis piezas<br>
+      <img alt="n1"
+ src="https://github.com/eduroboticave/sigepiros/blob/main/images/Nivel1.png"></span></li>
+    <li><span
+ style="font-size: 14px; font-family: Arial,sans-serif;">Nivel
+dificultad II: siete piezas<br>
+      <img alt="n2"
+ src="https://github.com/eduroboticave/sigepiros/blob/main/images/Nivel2.png"></span></li>
+    <li><span
+ style="font-size: 14px; font-family: Arial,sans-serif;">Nivel
+dificultad III: cinco piezas<br>
+      <img alt="n3"
+ src="https://github.com/eduroboticave/sigepiros/blob/main/images/Nivel3.png"><br>
       </span></li>
   </ul>
   <li><span
@@ -272,4 +303,5 @@ la elaboraci&oacute;n de las piezas, se ofrecen los archivos
 fuentes en dos formatos: svg (corte y grabado l&aacute;ser) y jpg
 (impresi&oacute;n)</span></li>
 </ul>
+
 
