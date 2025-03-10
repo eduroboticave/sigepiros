@@ -11,7 +11,11 @@ ANTECEDENDES</b></span></p>
  style="font-weight: bold;">I.1.- Algunas</span>
 referencias de <b>competencias</b>&nbsp;robots sigue
 l&iacute;neas <b>en
-Venezuela.</b>&nbsp;</span>
+Venezuela.</b> &nbsp;<br>
+- En esta competencia desarrollan un circuito siguel&iacute;neas
+elaborado con material mdf de dimensiones aproximadas a 2,40 x 2,40
+mts; pintado todo de blanco y sobre el mismo una l&iacute;nea de 20
+mm de grosor de color negro.</span>
 <ol>
   <ol>
   </ol>
@@ -126,7 +130,11 @@ did&aacute;cticas</span> el &aacute;mbito
 pedag&oacute;gico asociadas a "<span style="font-weight: bold;">laberintos</span>"
 o "<span style="font-weight: bold;">pistas
 siguel&iacute;neas</span>" para la ense&ntilde;anza de la
-rob&oacute;tica en la escuela:</span>
+rob&oacute;tica en la escuela. <br>
+- Utilizan una metodolog&iacute;a donde&nbsp;arman el circuito
+"siguel&iacute;neas" utilizando piezas de un tama&ntilde;o
+cuadrado (Por ejemplo 21x21 cm)&nbsp; color blanco y con una
+l&iacute;nea negra de 20mm.</span>
 <ol>
   <li><span
  style="font-size: 14px; font-family: Arial,sans-serif;"><span
@@ -150,8 +158,13 @@ de pr&aacute;cticas Encuentro de Rob&oacute;tica Educativa - </span><span
  style="font-weight: bold;">Escuela
 de Educaci&oacute;n, Coodinaci&oacute;n de
 Tecnolog&iacute;a Educatiiva [ Noviembre 2012]&nbsp;</span><br>
-Dise&ntilde;o de pistas siguelineas fondo blanco linea negra sobre
-una cartulina en kilo 80x100cm. Al unir cuatro cartulinas, se obtiene
+Dise&ntilde;o de pistas siguelineas de 4 cuadr&iacute;culas
+(2x2) cada cuadr&iacute;cula es&nbsp;</span><span
+ style="font-size: 14px; font-family: Arial,sans-serif;">una
+cartulina en kilo 80x100cm;</span><span
+ style="font-size: 14px; font-family: Arial,sans-serif;">
+tiene fondo blanco y curv&iacute;neas color negro.&nbsp; Al
+unir las piezas, se obtiene
 un circuito cerrado de la pista. <br>
 https://edurobotica.blogspot.com/search/label/InterEscolar%20Rob%C3%B3tica%20Educativa
     </span><span
@@ -161,11 +174,102 @@ https://edurobotica.blogspot.com/search/label/InterEscolar%20Rob%C3%B3tica%20Edu
  style="font-weight: bold;">2018 Plantilla para la
 creaci&oacute;n de circuitos para robots siguel&iacute;neas -
 Dani Sanz / Juegosrobotica</span><br>
-https://juegosrobotica.es/plantillas-siguelineas <br>
-    </span></li>
+https://juegosrobotica.es/plantillas-siguelineas&nbsp;</span></li>
+</ol>
+<ol>
   <ol>
   </ol>
 </ol>
-<p style="font-weight: bold;"><span style="font-size: 24px; font-family: Arial,sans-serif;"><b>II.- ANÁLISIS DE LOS ANTECENDES</b></span></p>
-<p style="font-weight: bold;"><span style="font-size: 24px; font-family: Arial,sans-serif;"><b>III.- PROPUESTA DE ARMADO PISTA CIRCUITO SIGUE LÍNEAS</b></span></p>
-<p style="font-weight: bold;"><span style="font-size: 24px; font-family: Arial,sans-serif;"><b>IV.- PIEZAS DE LA PISTA</b></span></p>
+<span style="font-size: 24px; font-family: Arial,sans-serif;"><b>II.-
+PROPUESTA DE ARMADO PISTA CIRCUITO SIGUE L&Iacute;NEAS<br>
+</b></span><span
+ style="font-size: 14px; font-family: Arial,sans-serif;"><span
+ style="font-weight: bold;">II.1.- </span>Se plantea
+una metodolog&iacute;a que permita: <br>
+</span>
+<ul>
+  <li><span
+ style="font-size: 14px; font-family: Arial,sans-serif;">Crear,
+armar un circuito al momento, utilizando piezas que se ensamblan entre
+s&iacute; y forman la pista.</span></li>
+  <li><span
+ style="font-size: 14px; font-family: Arial,sans-serif;">Reutilzar
+las piezas para otras formas de armar un circu&iacute;to.</span></li>
+  <li><span
+ style="font-size: 14px; font-family: Arial,sans-serif;">De
+f&aacute;cil creaci&oacute;n y producci&oacute;n.</span></li>
+  <li><span
+ style="font-size: 14px; font-family: Arial,sans-serif;">Que
+se pueda ir ampliando cada tipo de pieza (l&iacute;neas, curvas,
+curvil&iacute;neas) para ir incorporando a la lista de piezas
+existentes.<br>
+    </span></li>
+</ul>
+<span style="font-size: 14px; font-family: Arial,sans-serif;"></span>
+<p style="font-weight: bold;"><span
+ style="font-size: 24px; font-family: Arial,sans-serif;"><b>III.-
+PIEZAS DE LA PISTA</b></span></p>
+<p style="font-weight: bold;"><span
+ style="font-size: 14px; font-family: Arial,sans-serif;"><span
+ style="font-weight: bold;">III.1.-</span><span
+ style="font-weight: normal;"><span
+ style="font-weight: bold;"> </span>Detalles&nbsp;</span></span></p>
+<p style="font-weight: bold;"><span
+ style="font-size: 14px; font-family: Arial,sans-serif;"><span
+ style="font-weight: normal;">Se debe destacar un valor
+&uacute;nico asociado a este proyecto, la forma de uni&oacute;n
+de las piezas es la siguiente:&nbsp;</span></span></p>
+<ul>
+  <li><span
+ style="font-size: 14px; font-family: Arial,sans-serif;"><span
+ style="font-weight: normal;">Cada pieza tiene ocho encajes
+para unirse con otras piezas en cada uno de sus cuatro lados.</span></span></li>
+  <li><span
+ style="font-size: 14px; font-family: Arial,sans-serif;"><span
+ style="font-weight: normal;">La uni&oacute;n se realiza
+a trav&eacute;s de&nbsp;un eslab&oacute;n especial
+dise&ntilde;ado para este proyecto.</span></span></li>
+  <li><span
+ style="font-size: 14px; font-family: Arial,sans-serif;"><span
+ style="font-weight: normal;">Confesamos que esto es un
+innovaci&oacute;n donde no hemos encontrado referencia alguna.<br>
+    </span></span></li>
+</ul>
+<img alt="-.-"
+ src="https://github.com/eduroboticave/sigepiros/blob/main/images/Piezas_unidas.jpg">
+<ul>
+  <li><span
+ style="font-size: 14px; font-family: Arial,sans-serif;">Materiales
+posibles: carton en kilo, mdf crudo, laminado mdf color blanco mate.</span></li>
+  <li><span
+ style="font-size: 14px; font-family: Arial,sans-serif;">Dimensiones
+iniciales: 35cm x 35cm x 0,5cm.</span></li>
+  <li><span
+ style="font-size: 14px; font-family: Arial,sans-serif;">Opciones
+de elaboraci&oacute;n:&nbsp;</span></li>
+  <ul>
+    <li><span
+ style="font-size: 14px; font-family: Arial,sans-serif;">Imprimir
+la pieza en papel, cartulina blanca y se adhiere al material resistente
+(cart&oacute;n, madera, otro).</span></li>
+    <li><span
+ style="font-size: 14px; font-family: Arial,sans-serif;">Grabado
+y cortado l&aacute;ser de la pieza en mdf crudo o laminado mdf
+color mate de 5mm de espesor.</span></li>
+    <li><span
+ style="font-size: 14px; font-family: Arial,sans-serif;">Grabado
+y cortado l&aacute;ser de la pieza en cart&oacute;n en kilo (3
+mm de espesor).</span></li>
+    <li><span
+ style="font-size: 14px; font-family: Arial,sans-serif;">Cada
+opci&oacute;n requerir&aacute; una metodolog&iacute;a,
+acciones, configuraciones especificas para su producci&oacute;n. <br>
+      </span></li>
+  </ul>
+  <li><span
+ style="font-size: 14px; font-family: Arial,sans-serif;">Para
+la elaboraci&oacute;n de las piezas, se ofrecen los archivos
+fuentes en dos formatos: svg (corte y grabado l&aacute;ser) y jpg
+(impresi&oacute;n)</span></li>
+</ul>
+
