@@ -23,20 +23,20 @@ funcionan como subsistemas dentro del gran sistema:&nbsp;</span><em><span
  style="font-size: 11pt; font-family: Arial,sans-serif;"></span></em></p>
 <ol>
   <li><em><span
- style="font-size: 11pt; font-family: Arial,sans-serif;">Dise&ntilde;o:</span></em><span
+ style="font-size: 11pt; font-family: Arial,sans-serif;"><a ref="https://github.com/eduroboticave/sigepiros/tree/main/1%20Dise%C3%B1o">Dise&ntilde;o:</a></span></em><span
  style="font-size: 11pt; font-family: Arial,sans-serif;">&nbsp;pauta
 la creaci&oacute;n de las piezas que componen la matriz de
 cuadr&iacute;culas (filas x columnas) de la pista y sus diferentes
 niveles de complejidad.&nbsp;</span><em><span
  style="font-size: 11pt; font-family: Arial,sans-serif;"></span></em></li>
   <li><em><span
- style="font-size: 11pt; font-family: Arial,sans-serif;">Conexi&oacute;n:</span></em><span
+ style="font-size: 11pt; font-family: Arial,sans-serif;"><a href="https://github.com/eduroboticave/sigepiros/tree/main/2%20Conexi%C3%B3n">Conexi&oacute;n:</a></span></em><span
  style="font-size: 11pt; font-family: Arial,sans-serif;">&nbsp;determina
 la manera en que se unir&aacute;n las piezas y los diferentes tipos
 de materiales que pueden utilizarse.&nbsp;</span><em><span
  style="font-size: 11pt; font-family: Arial,sans-serif;"></span></em></li>
   <li><em><span
- style="font-size: 11pt; font-family: Arial,sans-serif;">Puntuaci&oacute;n:</span></em><span
+ style="font-size: 11pt; font-family: Arial,sans-serif;"><a href="https://github.com/eduroboticave/sigepiros/tree/main/3%20Puntuaci%C3%B3n">Puntuaci&oacute;n:</a></span></em><span
  style="font-size: 11pt; font-family: Arial,sans-serif;">&nbsp;plantea
 una metodolog&iacute;a que permite &ldquo;calificar&rdquo;
 el desempe&ntilde;o del robot basado en el seguimiento de la
@@ -44,7 +44,7 @@ l&iacute;nea y no s&oacute;lo en el cumplimiento del circuito
 como tal y por &uacute;ltimo,&nbsp;</span></li>
   <li><span
  style="font-size: 11pt; font-family: Arial,sans-serif;"><span
- style="font-style: italic;"><i>Generador:</i></span> un
+ style="font-style: italic;"><i><a href="https://github.com/eduroboticave/sigepiros/tree/main/4%20Generador">Generador:</i></a></span> un
 desarrollo en Python que permite al aprendiz determinar la
 configuraci&oacute;n de la cuadr&iacute;cula de la pista, su
 nivel de complejidad y la cantidad de piezas a utilizar.</span></li>
