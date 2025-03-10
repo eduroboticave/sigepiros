@@ -301,7 +301,7 @@ dificultad III: cinco piezas<br>
  style="font-size: 14px; font-family: Arial,sans-serif;">Para
 la elaboraci&oacute;n de las piezas, se ofrecen los archivos
 fuentes en dos formatos: svg (corte y grabado l&aacute;ser) y jpg
-(impresi&oacute;n)</span></li>
+(impresi&oacute;n)<b>Puedes descargarlos en la carpeta <a href="https://github.com/eduroboticave/sigepiros/tree/main/1%20Dise%C3%B1o/Piezas">Piezas.</a></span></li>
 </ul>
 
 
