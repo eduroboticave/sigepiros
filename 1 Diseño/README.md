@@ -4,25 +4,22 @@ Generador de Pistas para Robot Seguidor de L&iacute;neas (SIGEPIROS)</span></p>
 <span style="font-size: 14px; font-family: Arial,sans-serif;"><strong>M&oacute;dulo
 1: Dise&ntilde;o de piezas para la Pista</strong><strong>&nbsp;</strong></span>
 <p></p>
-<p style="font-weight: bold;"><span style="font-size: 24px; font-family: Arial,sans-serif;"><b>I.- ALGUNOS ANTECEDENDES</b></span></p>
-<ol>
-  <li><span
- style="font-size: 14px; font-family: Arial,sans-serif;">Se
-presentan s&oacute;lo <span style="font-weight: bold;">algunas</span>
-referencias m&iacute;nimas de <b>competencias</b>
-robots sigue
+<p style="font-weight: bold;"><span
+ style="font-size: 24px; font-family: Arial,sans-serif;"><b>I.-
+ANTECEDENDES</b></span></p>
+<span style="font-size: 14px; font-family: Arial,sans-serif;"><span
+ style="font-weight: bold;">I.1.- Algunas</span>
+referencias de <b>competencias</b>&nbsp;robots sigue
 l&iacute;neas <b>en
-Venezuela.</b>&nbsp;</span></li>
+Venezuela.</b>&nbsp;</span>
+<ol>
   <ol>
-    <li><span
+  </ol>
+  <li><span
  style="font-size: 14px; font-family: Arial,sans-serif;"><span
  style="font-weight: bold;">ULABOTS, Universidad de Los
 Andes,Facultad de Ingenier&iacute;a. [Noviembre 2011]</span><br>
-Primera competencia para estudiantes universitarios y
-aficionados.&nbsp;<br>
-Centrada en robots siguel&iacute;neas con dos tipos de circuitos,
-b&aacute;sico y avanzado.<br>
-      </span><span
+    </span><span
  style="font-size: 14px; font-family: Arial,sans-serif;">| <a
  href="https://www.prensa.ula.ve/2011/10/26/estudiantes-y-aficionados-de-la-robotica-competiran-en-ulabots-2011"
  target="_blank">
@@ -30,48 +27,27 @@ Noticia institucional<span style="font-style: italic;"></span></a>
 | </span><span
  style="font-size: 14px; font-family: Arial,sans-serif;">Portal
 de la competencia |</span></li>
-    <li><span
+  <li><span
  style="font-size: 14px; font-family: Arial,sans-serif;"><span
  style="font-weight: bold;">Competencia Nacional de
 Rob&oacute;tica, Universidad Sim&oacute;n Bol&iacute;var,
 Grupo de Inteligencia Artificial. [Septiembre 2013]</span><br>
-      </span><span
- style="font-size: 14px; font-family: Arial,sans-serif;">Cuatro
-categor&iacute;as (Open, SEK, Sumo y Velocistas)<br>
-Velocista: <span style="font-style: italic;">"...un
-robot aut&oacute;nomo que deber&aacute; recorrer un circuito
-cerrado demarcado por
-una l&iacute;nea negra sobre un fondo blanco. El robot que complete
-el
-recorrido en el menor tiempo ser&aacute; el ganador."</span> <br>
-S&oacute;lo participaron 14 equipos de estudiantes universitarios.<br>
-|
-      <a
+    </span><span
+ style="font-size: 14px; font-family: Arial,sans-serif;">|
+    <a
  href="https://www.pts.org.ve/index.php/2015-09-28-00-45-05/item/148-competencia-nacional-de-robotica-usb"
  target="_blank">Noticia institucional</a><span
  style="font-style: italic;"> | </span></span><span
  style="font-size: 14px; font-family: Arial,sans-serif;"><a
  href="https://web.archive.org/web/20140409030711/http://ccsbots2013.gia.usb.ve/cat_vel/"
  target="_blank">Portal de la competencia</a> |</span></li>
-    <li><span
+  <li><span
  style="font-size: 14px; font-family: Arial,sans-serif;"><span
  style="font-weight: bold;">ULABOTS, Universidad de Los
 Andes,&nbsp; . [ Noviembre 2014]</span><br>
-Tres categor&iacute;as (Sumo, Desaf&iacute;o nacional y
-Velocista). <br>
-Velocista: <span style="font-style: italic;">"...un robot
-experimental seguidor de l&iacute;nea que recorra un circuito
-demarcado con una l&iacute;nea de color negro mate puesta sobre un
-fondo blanco mate. La caracter&iacute;stica particular de esta
-prueba es que posiblemente algunos segmentos rectos de la pista no
-est&eacute;n, este tramo faltante de pista no ser&aacute; mayor
-de diez cent&iacute;metros, y la localizaci&oacute;n puede
-variar de una etapa a otra. Los segmentos faltantes ser&aacute;
-conocidos instantes antes de iniciarse cada etapa."</span><br>
-S&oacute;lo participaron estudiantes universitarios<br>
-      </span><span
+    </span><span
  style="font-size: 14px; font-family: Arial,sans-serif;">|
-      <a
+    <a
  href="https://comunicacioncontinua.com/ulabots-2014-supera-cifra-de-participantes-en-la-competencia-nacional-de-robotica/"
  target="_blank">Noticia institucional</a><span
  style="font-style: italic;"> | </span></span><span
@@ -81,15 +57,15 @@ S&oacute;lo participaron estudiantes universitarios<br>
  href="https://www.ing.ula.ve/ulabots/competencias/categoria-velocistas-con-pista-fantasma-reglamento/"
  target="_blank">Reglas de la competencia</a> |</span><span
  style="font-size: 14px; font-family: Arial,sans-serif;"></span></li>
-    <li><span
+  <li><span
  style="font-size: 14px; font-family: Arial,sans-serif;"><span
  style="font-weight: bold;">UNETBOTS, Universidad Nacional
 Experimental del T&aacute;chira. [Octubre 2015]</span><br>
 Categor&iacute;as Desaf&iacute;o, Sumo, Velocistas.<br>
 Equipo universitarios.<br>
-      </span><span
+    </span><span
  style="font-size: 14px; font-family: Arial,sans-serif;">|
-      <a
+    <a
  href="http://www.unet.edu.ve/noticia-unet/3342-se-dio-inicio-formal-a-unetbots-2015.html"
  target="_blank">Noticia institucional</a><span
  style="font-style: italic;"> | </span></span><span
@@ -99,16 +75,14 @@ Equipo universitarios.<br>
  href="http://www.unet.edu.ve/noticia-unet/3313-v-competencia-nacional-de-robotica-tiene-como-sede-a-la-unet.html"
  target="_blank">Reglas de la competencia</a> |</span><span
  style="font-size: 14px; font-family: Arial,sans-serif;"></span></li>
-    <li><span
+  <li><span
  style="font-size: 14px; font-family: Arial,sans-serif;"><span
  style="font-weight: bold;">Conferencia Nacional de
 Computaci&oacute;n, Inform&aacute;tica y Sistemas (CONSISA),
 Universidad de Los Andes. [Noviembre 2018]</span><br>
-Se activ&oacute;, en el marco del evento, una competencia robots
-sigue l&iacute;neas..<br>
-      </span><span
+    </span><span
  style="font-size: 14px; font-family: Arial,sans-serif;">|
-      <a href="https://concisa.net.ve/2018/" target="_blank">Noticia
+    <a href="https://concisa.net.ve/2018/" target="_blank">Noticia
 institucional</a><span style="font-style: italic;">
 | </span></span><span
  style="font-size: 14px; font-family: Arial,sans-serif;"><span
@@ -117,54 +91,44 @@ institucional</a><span style="font-style: italic;">
  href="https://www.concisa.net.ve/2018/wp-content/uploads/sites/7/2018/06/velocista.pdf"
  target="_blank">Reglas de la competencia</a> |</span><span
  style="font-size: 14px; font-family: Arial,sans-serif;"></span></li>
-    <li><span
+  <li><span
  style="font-size: 14px; font-family: Arial,sans-serif;"><span
  style="font-weight: bold;">I Competencia Tachirense de
 Rob&oacute;tica, Universidad
 Nacional Experimental del T&aacute;chira, Laboratorio de
 prototipos. [Noviembre 2024]</span><br>
-S&oacute;lo a Robots seguidores de Lineas, tres
-categor&iacute;as por
-edades desde los 6 a&ntilde;os en adelantes.<br>
-      </span><span
+    </span><span
  style="font-size: 14px; font-family: Arial,sans-serif;">|
-      <a
+    <a
  href="http://www.unet.edu.ve/eventos-y-noticias-externas/5545-en-noviembre-se-realizara-la-i-competencia-tachirense-de-robotica-en-la-unet.html"
  target="_blank">Noticia institucional</a><span
  style="font-style: italic;"> | </span></span><span
  style="font-size: 14px; font-family: Arial,sans-serif;"><a
  href="https://protolab.my.canva.site/tachibots" target="_blank">Portal
 de la competencia</a> |</span></li>
-    <li><span
+  <li><span
  style="font-size: 14px; font-family: Arial,sans-serif;"><span
  style="font-weight: bold;">ExpoRobotik - Competencia Grand
 Prix - Colegio de Ingenieros del Estado Carabobo (CIEDEC). [Noviembre
 2024]</span><br>
-En el marco de una Exposici&oacute;n, se abren dos competencias:
-Grand Prix (Basada en Velocista) e Idea Innvadora; a p&uacute;blico
-de varias edades.<br>
-      </span><span
- style="font-size: 14px; font-family: Arial,sans-serif;">|
-      <a
+|
+    <a
  href="https://www.instagram.com/ceidec_civ/p/DAGdvpEOtgs/?hl=es"
  target="_blank">Noticia institucional</a><span
- style="font-style: italic;"> | </span></span><span
- style="font-size: 14px; font-family: Arial,sans-serif;">Portal
-de la competencia |<br>
-      </span><span
+ style="font-style: italic;"> |&nbsp;</span></span><span
  style="font-size: 14px; font-family: Arial,sans-serif;"></span></li>
-  </ol>
-  <li><span
- style="font-size: 14px; font-family: Arial,sans-serif;">Algunas
+</ol>
+<span style="font-size: 14px; font-family: Arial,sans-serif;"><span
+ style="font-weight: bold;">I.2.- Algunas</span>
 referencias
 a <span style="font-weight: bold;">experiencias
 did&aacute;cticas</span> el &aacute;mbito
 pedag&oacute;gico asociadas a "<span style="font-weight: bold;">laberintos</span>"
 o "<span style="font-weight: bold;">pistas
 siguel&iacute;neas</span>" para la ense&ntilde;anza de la
-rob&oacute;tica en la escuela:</span></li>
-  <ol>
-    <li><span
+rob&oacute;tica en la escuela:</span>
+<ol>
+  <li><span
  style="font-size: 14px; font-family: Arial,sans-serif;"><span
  style="font-weight: bold;">Exposici&oacute;n Itinerante
 - Escuela
@@ -177,9 +141,9 @@ semicurva de color negro con un ancho de 2 cm. Los ni&ntilde;os
 arman el rompecabezas y luego programan el robot para que salga del
 punto de inicio, recorra a l&iacute;nea y estacione en el punto de
 llegada.<br>
-https://edurobotica.blogspot.com/2009/09/2da-exposicion-itinerante-de-robotica.html
-      </span></li>
-    <li><span
+https://edurobotica.blogspot.com/search/label/Exposiciones%20Itinerantes
+    </span></li>
+  <li><span
  style="font-size: 14px; font-family: Arial,sans-serif; font-weight: bold;">Tablero
 de pr&aacute;cticas Encuentro de Rob&oacute;tica Educativa - </span><span
  style="font-size: 14px; font-family: Arial,sans-serif;"><span
@@ -190,15 +154,16 @@ Dise&ntilde;o de pistas siguelineas fondo blanco linea negra sobre
 una cartulina en kilo 80x100cm. Al unir cuatro cartulinas, se obtiene
 un circuito cerrado de la pista. <br>
 https://edurobotica.blogspot.com/search/label/InterEscolar%20Rob%C3%B3tica%20Educativa
-      </span><span
+    </span><span
  style="font-size: 14px; font-family: Arial,sans-serif;"></span></li>
-    <li><span
+  <li><span
  style="font-size: 14px; font-family: Arial,sans-serif;"><span
  style="font-weight: bold;">2018 Plantilla para la
 creaci&oacute;n de circuitos para robots siguel&iacute;neas -
 Dani Sanz / Juegosrobotica</span><br>
 https://juegosrobotica.es/plantillas-siguelineas <br>
-      </span></li>
+    </span></li>
+  <ol>
   </ol>
 </ol>
 <p style="font-weight: bold;"><span style="font-size: 24px; font-family: Arial,sans-serif;"><b>II.- ANÁLISIS DE LOS ANTECENDES</b></span></p>
