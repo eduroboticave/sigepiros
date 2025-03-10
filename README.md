@@ -23,7 +23,7 @@ funcionan como subsistemas dentro del gran sistema:&nbsp;</span><em><span
  style="font-size: 11pt; font-family: Arial,sans-serif;"></span></em></p>
 <ol>
   <li><em><span
- style="font-size: 11pt; font-family: Arial,sans-serif;"><a ref="https://github.com/eduroboticave/sigepiros/tree/main/1%20Dise%C3%B1o">Dise&ntilde;o:</a></span></em><span
+ style="font-size: 11pt; font-family: Arial,sans-serif;"><a href="https://github.com/eduroboticave/sigepiros/tree/main/1%20Dise%C3%B1o">Dise&ntilde;o:</a></span></em><span
  style="font-size: 11pt; font-family: Arial,sans-serif;">&nbsp;pauta
 la creaci&oacute;n de las piezas que componen la matriz de
 cuadr&iacute;culas (filas x columnas) de la pista y sus diferentes
