@@ -298,7 +298,7 @@ fuentes en dos formatos: svg (corte y grabado l&aacute;ser) y jpg
 (impresi&oacute;n)<b>Puedes descargarlos</b> en la carpeta <a href="https://github.com/eduroboticave/sigepiros/tree/main/1%20Dise%C3%B1o/Piezas">Piezas.</a></span></li>
 </ul>
 <!-- PIE DE PÁGINA -->
-<div align="center">
+<div align="center"><hr>
 <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXf_4M2q_s9u47z9-EfZpbR4oDI5dHSPc4U2ksr0tKbEeM49-2ORD-WcGojh-NSrVvNqbHKwDhIsBhSzIM5FpIPD7A-xgFrw2pwXZ_y_xZlXczJCwRXs57myO7KKTjW2-CYtjtVV?key=wfIYDse3HDYUCiFSmAXxQTvT" width="209" height="25" align="center"><br>
-Proyecto de código abierto registrado bajo licencia Creative Commons Internacional 4.0 - Atribución/Reconocimiento-NoComercial-CompartirIgual 4.0 Internacional.
-Esta licencia no permite el uso comercial de la obra original ni de las posibles obras derivadas. Toda obra derivada debe licenciarse bajo el mismo esquema de la obra original <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0 Internacional</a></div>
+Proyecto de código abierto registrado bajo licencia Creative Commons Internacional 4.0 - Atribución/Reconocimiento-NoComercial-CompartirIgual 4.0 Internacional. 
+No se permite el uso comercial de la obra original ni de las posibles obras derivadas.<br>Toda obra derivada debe licenciarse bajo el mismo esquema de la obra original <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0 Internacional</a></div>
