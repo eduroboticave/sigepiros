@@ -4,7 +4,7 @@
 <!-- SECCION -->
 <p><span style="font-size: 24px; font-family: Arial, sans-serif;"><strong>M&oacute;dulo 1: Diseño de las piezas</strong></span><span style="font-size: 24px; font-family: Arial, sans-serif;"><strong>&nbsp;</strong></span></p>
 <!-- CUERPO -->
-<p><span style="font-size:11pt;font-family:Arial,sans-serif;">Carpetas de imágenes jpg y diseños svg para descargar.
+<p><span style="font-size:11pt;font-family:Arial,sans-serif;">Carpetas de diseños svg para descargar y producir en cortadora-grabadora láser.
 <!-- PIE DE PÁGINA -->
 <div align="center"><hr>
 <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXf_4M2q_s9u47z9-EfZpbR4oDI5dHSPc4U2ksr0tKbEeM49-2ORD-WcGojh-NSrVvNqbHKwDhIsBhSzIM5FpIPD7A-xgFrw2pwXZ_y_xZlXczJCwRXs57myO7KKTjW2-CYtjtVV?key=wfIYDse3HDYUCiFSmAXxQTvT" width="209" height="25" align="center"><br>
