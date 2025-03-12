@@ -295,10 +295,10 @@ dificultad III: cinco piezas<br>
  style="font-size: 14px; font-family: Arial,sans-serif;">Para
 la elaboraci&oacute;n de las piezas, se ofrecen los archivos
 fuentes en dos formatos: svg (corte y grabado l&aacute;ser) y jpg
-(impresi&oacute;n)<b>Puedes descargarlos en la carpeta <a href="https://github.com/eduroboticave/sigepiros/tree/main/1%20Dise%C3%B1o/Piezas">Piezas.</a></span></li>
+(impresi&oacute;n)<b>Puedes descargarlos</b> en la carpeta <a href="https://github.com/eduroboticave/sigepiros/tree/main/1%20Dise%C3%B1o/Piezas">Piezas.</a></span></li>
 </ul>
 <!-- PIE DE PÁGINA -->
-<p><strong><span style="font-size:11pt;font-family:Arial,sans-serif;">Licenciamiento y alcance:</span></strong></p>
-<p align="center"><span style="font-size:11pt;font-family:Arial,sans-serif;">Es un proyecto de c&oacute;digo abierto registrado bajo licencia Creative Commons Internacional 4.0&nbsp;</span><br><a href="https://creativecommons.org/licenses/by-nc-sa/4.0/"><u><span style="color:#1155cc;font-size:11pt;font-family:Arial,sans-serif;">Atribuci&oacute;n/Reconocimiento-NoComercial-CompartirIgual 4.0 Internacional</span></u></a><br><span style="font-size:11pt;font-family:Arial,sans-serif;">&nbsp;</span><span style="border:none;"><br><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXf_4M2q_s9u47z9-EfZpbR4oDI5dHSPc4U2ksr0tKbEeM49-2ORD-WcGojh-NSrVvNqbHKwDhIsBhSzIM5FpIPD7A-xgFrw2pwXZ_y_xZlXczJCwRXs57myO7KKTjW2-CYtjtVV?key=wfIYDse3HDYUCiFSmAXxQTvT" width="209" height="25"></span></p>
-<p align="center"><span style="font-size:11pt;font-family:Arial,sans-serif;">Esta licencia no permite el uso comercial de la obra original ni de las posibles obras derivadas. Adicional, toda obra derivada debe licenciarse bajo el mismo esquema de la obra original&nbsp;</span><a href="https://creativecommons.org/licenses/by-nc-sa/4.0/"><u><span style="color:#1155cc;font-size:11pt;font-family:Arial,sans-serif;">CC BY-NC-SA 4.0 Internacional</span></u></a></p>
-
+<div align="center">
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXf_4M2q_s9u47z9-EfZpbR4oDI5dHSPc4U2ksr0tKbEeM49-2ORD-WcGojh-NSrVvNqbHKwDhIsBhSzIM5FpIPD7A-xgFrw2pwXZ_y_xZlXczJCwRXs57myO7KKTjW2-CYtjtVV?key=wfIYDse3HDYUCiFSmAXxQTvT" width="209" height="25" align="center"><br>
+Proyecto de código abierto registrado bajo licencia Creative Commons Internacional 4.0 - Atribución/Reconocimiento-NoComercial-CompartirIgual 4.0 Internacional.
+Esta licencia no permite el uso comercial de la obra original ni de las posibles obras derivadas. Toda obra derivada debe licenciarse bajo el mismo esquema de la obra original <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0 Internacional</a></div>
