@@ -166,7 +166,7 @@ cartulina en kilo 80x100cm;</span><span
 tiene fondo blanco y curv&iacute;neas color negro.&nbsp; Al
 unir las piezas, se obtiene
 un circuito cerrado de la pista. <br>
-https://edurobotica.blogspot.com/search/label/InterEscolar%20Rob%C3%B3tica%20Educativa
+https://edurobotica.blogspot.com/2011/02/realizacion-del-taller-para-los.html
     </span><span
  style="font-size: 14px; font-family: Arial,sans-serif;"></span></li>
   <li><span
