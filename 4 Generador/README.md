@@ -2,6 +2,11 @@
 <p><span style="background-color: rgb(255, 255, 255); font-size: 22px; font-family: Arial, sans-serif; text-shadow: rgba(136, 136, 136, 0.8) 3px 3px 2px;">Sistema Generador de Pistas para Robot Seguidor de L&iacute;neas (SIGEPIROS)</span></p>
 <p><span style="font-size: 24px; font-family: Arial, sans-serif;"><strong>M&oacute;dulo 4: Generador circuitos de pista.</span><span style="font-size: 24px; font-family: Arial, sans-serif;"></strong></span></p>
 <p><span style="font-size:11pt;font-family:Arial,sans-serif;">Desarrollo en Python que permite al aprendiz determinar la configuración de la cuadrícula de la pista, su nivel de complejidad y la cantidad de piezas a utilizar.</span></p>
+  Desarrollos hasta el momento:
+  - Versión 1.3.1 | 06 de junio 2025: Se agrega código QR con datos de la pista.
+    Apk Evaluador Sigepiros 08 junio 2025: Aplicación Androide para leer QR de pista y evaluar desempeño del robot en pista.
+  - Versión 1.2.2 | 16 de abril 2025: Corre con interfaz gráfica autoejecutable.
+  - Versión 1.0 | 12 de marzo 2025: Plantamiento inicial, se ejecuta desde cónsola Python.
 <p><span style="font-size:11pt;font-family:Arial,sans-serif;">El Código fuente está registrado bajo licencia <a href="https://www.gnu.org/licenses/quick-guide-gplv3.html"; target="_blank">GNU GPL 3</a>.</span></p>
 <!-- PIE DE PÁGINA -->
 <div align="center"><hr>
