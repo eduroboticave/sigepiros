@@ -60,7 +60,7 @@ pista.&nbsp;</span></li>
   <li><span
  style="color: rgb(31, 35, 40); font-family: -apple-system,BlinkMacSystemFont,&quot;Segoe UI&quot;,&quot;Noto Sans&quot;,Helvetica,Arial,sans-serif,&quot;Apple Color Emoji&quot;,&quot;Segoe UI Emoji&quot;; font-size: 16px; font-style: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; white-space: normal; background-color: rgb(255, 255, 255); display: inline ! important; float: none;"><a
  href="https://drive.google.com/file/d/1s9R8XCUW0k1gC96y2eBcI60_VkHhzQ5m/view?usp=drive_link"
- target="_blank">Apk Cron&oacute;metro Sigepiroso</a>:
+ target="_blank">Apk Cron&oacute;metro Sigepiros</a>:
 Agosto 2025. Aplicaci&oacute;n Androide para control de tiempo
 fuera de l&iacute;nea.<br>
     </span></li>
