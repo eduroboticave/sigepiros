@@ -39,7 +39,7 @@ abril 2025: Corre con interfaz gr&aacute;fica autoejecutable.
     </span></li>
   <li><span
  style="color: rgb(31, 35, 40); font-family: -apple-system,BlinkMacSystemFont,&quot;Segoe UI&quot;,&quot;Noto Sans&quot;,Helvetica,Arial,sans-serif,&quot;Apple Color Emoji&quot;,&quot;Segoe UI Emoji&quot;; font-size: 16px; font-style: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; white-space: normal; background-color: rgb(255, 255, 255); display: inline ! important; float: none;"><a
- href="https://github.com/eduroboticave/sigepiros/blob/main/4%20Generador/Generador_Pista_12-03-25.rar"
+ href="https://drive.google.com/file/d/1OggQMyQ-bNZ35E7U6DBiENRLCB_W3KBP/view?usp=drive_link"
  target="_blank">Versi&oacute;n
 1.0</a> | 12 de marzo 2025: Plantamiento inicial, se ejecuta
 desde
